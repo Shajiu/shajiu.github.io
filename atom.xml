@@ -6,7 +6,7 @@
   <link href="http://shajiu.com/atom.xml" rel="self"/>
   
   <link href="http://shajiu.com/"/>
-  <updated>2024-08-25T02:49:58.657Z</updated>
+  <updated>2024-08-25T03:09:15.770Z</updated>
   <id>http://shajiu.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>EMNLP 2023:基于微调和上下文学习的机器翻译大型语言模型</title>
+    <link href="http://shajiu.com/2024/08/25/emnlp-2023-ji-yu-wei-diao-he-shang-xia-wen-xue-xi-de-ji-qi-fan-yi-da-xing-yu-yan-mo-xing/"/>
+    <id>http://shajiu.com/2024/08/25/emnlp-2023-ji-yu-wei-diao-he-shang-xia-wen-xue-xi-de-ji-qi-fan-yi-da-xing-yu-yan-mo-xing/</id>
+    <published>2024-08-25T03:08:23.000Z</published>
+    <updated>2024-08-25T03:09:15.770Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;EMNLP-2023-基于微调和上下文学习的机器翻译大型语言模型&quot;&gt;&lt;a href=&quot;#EMNLP-2023-基于微调和上下文学习的机器翻译大型语言模型&quot; class=&quot;headerlink&quot; title=&quot;EMNLP</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title> 论文解读|ACL 2024: 演示对多语言情境学习的影响：多维分析</title>
@@ -432,31 +453,6 @@
         
         
     <summary type="html">&lt;h4 id=&quot;Python中的关键函数汇总&quot;&gt;&lt;a href=&quot;#Python中的关键函数汇总&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="语言" scheme="http://shajiu.com/categories/%E8%AF%AD%E8%A8%80/"/>
-    
-    
-    <category term="专业" scheme="http://shajiu.com/tags/%E4%B8%93%E4%B8%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java代码命名技巧</title>
-    <link href="http://shajiu.com/2022/02/17/java-dai-ma-ming-ming-ji-qiao/"/>
-    <id>http://shajiu.com/2022/02/17/java-dai-ma-ming-ming-ji-qiao/</id>
-    <published>2022-02-17T09:16:08.000Z</published>
-    <updated>2022-06-16T14:15:26.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;优雅整洁的-Java-代码命名技巧&quot;&gt;&lt;a href=&quot;#优雅整洁的-Java-代码命名技巧&quot; class=&quot;headerlink&quot; title=&quot;优雅整洁的 Java 代码命名技巧&quot;&gt;&lt;/a&gt;优雅整洁的 Java</summary>
         
       
     
