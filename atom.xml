@@ -6,7 +6,7 @@
   <link href="http://shajiu.com/atom.xml" rel="self"/>
   
   <link href="http://shajiu.com/"/>
-  <updated>2024-08-25T01:50:51.851Z</updated>
+  <updated>2024-08-25T02:21:57.572Z</updated>
   <id>http://shajiu.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2023|用于特定领域机器翻译的大语言模型微调</title>
+    <link href="http://shajiu.com/2024/08/25/2023-yong-yu-te-ding-ling-yu-ji-qi-fan-yi-de-da-yu-yan-mo-xing-wei-diao/"/>
+    <id>http://shajiu.com/2024/08/25/2023-yong-yu-te-ding-ling-yu-ji-qi-fan-yi-de-da-yu-yan-mo-xing-wei-diao/</id>
+    <published>2024-08-25T02:21:17.000Z</published>
+    <updated>2024-08-25T02:21:57.572Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;2023-用于特定领域机器翻译的大语言模型微调&quot;&gt;&lt;a href=&quot;#2023-用于特定领域机器翻译的大语言模型微调&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2024|通过相似性搜索进行上下文示例选择可改善低资源机器翻译</title>
@@ -449,31 +470,6 @@
     
     
     <category term="专业" scheme="http://shajiu.com/tags/%E4%B8%93%E4%B8%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Matplotlib绘制靓丽的LOGO</title>
-    <link href="http://shajiu.com/2022/01/15/matplotlib-hui-zhi-jing-li-de-logo/"/>
-    <id>http://shajiu.com/2022/01/15/matplotlib-hui-zhi-jing-li-de-logo/</id>
-    <published>2022-01-15T08:31:32.000Z</published>
-    <updated>2022-06-16T14:15:26.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h4 id=&quot;背景介绍&quot;&gt;&lt;a href=&quot;#背景介绍&quot; class=&quot;headerlink&quot; title=&quot;背景介绍&quot;&gt;&lt;/a&gt;背景介绍&lt;/h4&gt;&lt;p&gt;&amp;amp;emsp;Matplotlib</summary>
-        
-      
-    
-    
-    
-    <category term="工具收录" scheme="http://shajiu.com/categories/%E5%B7%A5%E5%85%B7%E6%94%B6%E5%BD%95/"/>
-    
-    
-    <category term="利器库" scheme="http://shajiu.com/tags/%E5%88%A9%E5%99%A8%E5%BA%93/"/>
     
   </entry>
   
