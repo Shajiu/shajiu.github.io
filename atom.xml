@@ -6,7 +6,7 @@
   <link href="http://shajiu.com/atom.xml" rel="self"/>
   
   <link href="http://shajiu.com/"/>
-  <updated>2024-08-25T02:21:57.572Z</updated>
+  <updated>2024-08-25T02:49:58.657Z</updated>
   <id>http://shajiu.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title> 论文解读|ACL 2024: 演示对多语言情境学习的影响：多维分析</title>
+    <link href="http://shajiu.com/2024/08/25/lun-wen-jie-du-acl-2024-yan-shi-dui-duo-yu-yan-qing-jing-xue-xi-de-ying-xiang-duo-wei-fen-xi/"/>
+    <id>http://shajiu.com/2024/08/25/lun-wen-jie-du-acl-2024-yan-shi-dui-duo-yu-yan-qing-jing-xue-xi-de-ying-xiang-duo-wei-fen-xi/</id>
+    <published>2024-08-25T02:49:09.000Z</published>
+    <updated>2024-08-25T02:49:58.657Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;论文解读-ACL-2024-演示对多语言情境学习的影响：多维分析&quot;&gt;&lt;a href=&quot;#论文解读-ACL-2024-演示对多语言情境学习的影响：多维分析&quot; class=&quot;headerlink&quot; title=&quot;论文解读|ACL 2024:</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2023|用于特定领域机器翻译的大语言模型微调</title>
@@ -442,31 +463,6 @@
     
     
     <category term="语言" scheme="http://shajiu.com/categories/%E8%AF%AD%E8%A8%80/"/>
-    
-    
-    <category term="专业" scheme="http://shajiu.com/tags/%E4%B8%93%E4%B8%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>藏语手写字母与PyQt的碰撞，基于PyTorch框架LeNet-5网络的图形化藏文手写字母识别系统So Easy</title>
-    <link href="http://shajiu.com/2022/01/28/cang-yu-shou-xie-zi-mu-yu-pyqt-de-peng-zhuang-ji-yu-pytorch-kuang-jia-lenet-5-wang-luo-de-tu-xing-hua-cang-wen-shou-xie-zi-mu-shi-bie-xi-tong-so-easy/"/>
-    <id>http://shajiu.com/2022/01/28/cang-yu-shou-xie-zi-mu-yu-pyqt-de-peng-zhuang-ji-yu-pytorch-kuang-jia-lenet-5-wang-luo-de-tu-xing-hua-cang-wen-shou-xie-zi-mu-shi-bie-xi-tong-so-easy/</id>
-    <published>2022-01-28T12:54:28.000Z</published>
-    <updated>2022-06-16T14:15:27.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h4 id=&quot;藏语手写字母与PyQt的碰撞，基于PyTorch框架LeNet-5网络的图形化藏文手写字母识别系统So-Easy&quot;&gt;&lt;a href=&quot;#藏语手写字母与PyQt的碰撞，基于PyTorch框架LeNet-5网络的图形化藏文手写字母识别系统So-Easy&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="CV" scheme="http://shajiu.com/categories/CV/"/>
     
     
     <category term="专业" scheme="http://shajiu.com/tags/%E4%B8%93%E4%B8%9A/"/>
